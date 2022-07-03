@@ -1,5 +1,5 @@
 # Picture In Picture
-    App using the screen capture API for you to share your screen in picture and picture mode.
+App using the screen capture API for you to share your screen in picture and picture mode.
 ## Resources
 [Google Font - Barlow](https://fonts.google.com/specimen/Barlow?query=barl)
 
